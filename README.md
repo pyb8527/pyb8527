@@ -2,6 +2,8 @@
 <img src="https://img.shields.io/badge/dev__beenie-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyb8527&show_icons=true&theme=radical)
+
 <!--
 **pyb8527/pyb8527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
