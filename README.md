@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Youngbeen Park
+# 👋 Hi, I'm Beenie
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Hexagonal+Architecture;Clean+Code+Enthusiast;Always+Learning" />
