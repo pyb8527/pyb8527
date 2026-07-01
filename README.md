@@ -1,24 +1,107 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=BEENIE)
+# 👋 Hi, I'm Youngbeen Park
 
-<a href="https://www.instagram.com/dev_beenie/" target="_blank">
-<img src="https://img.shields.io/badge/dev__beenie-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Hexagonal+Architecture;Clean+Code+Enthusiast;Always+Learning" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyb8527&show_icons=true&theme=radical)
+---
 
-<!--
-**pyb8527/pyb8527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 💻 Backend Developer
+* 🌱 Interested in **Spring Boot**, **Hexagonal Architecture**, **DDD**
+* 🐳 Docker & CI/CD
+* ⚡ Redis / RabbitMQ / QueryDSL
+* 🐘 PostgreSQL
+* ☕ Java 21
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🛠 Tech Stack
+
+### Language
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,gradle"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,githubactions"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=idea,git,github,postman"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_ID&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project          | Description                                    |
+| ---------------- | ---------------------------------------------- |
+| 📝 Backend Init  | Multi Module + Hexagonal Architecture Template |
+| 📚 Blog Platform | Spring Boot + Redis + RabbitMQ + GitHub OAuth  |
+| 🗺 빈틈            | 여행 장소 추천 및 저장 서비스                              |
+
+---
+
+# 📫 Contact
+
+* Email : [your@email.com](mailto:your@email.com)
+* GitHub : https://github.com/YOUR_GITHUB_ID
+
+---
+
+<p align="center">
+
+### ⭐ "Code is read more often than it is written."
+
+</p>
