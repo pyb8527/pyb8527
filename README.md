@@ -53,10 +53,11 @@
 
 # 📊 GitHub 통계
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pyb8527&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyb8527&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyb8527&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pyb8527&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyb8527&theme=github_dark)
 
 ---
 
