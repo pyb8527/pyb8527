@@ -88,15 +88,13 @@
 | Project          | Description                                    |
 | ---------------- | ---------------------------------------------- |
 | 📝 Backend Init  | Multi Module + Hexagonal Architecture Template |
-| 📚 Blog Platform | Spring Boot + Redis + RabbitMQ + GitHub OAuth  |
-| 🗺 빈틈            | 여행 장소 추천 및 저장 서비스                              |
 
 ---
 
 # 📫 Contact
 
-* Email : [your@email.com](mailto:your@email.com)
-* GitHub : https://github.com/YOUR_GITHUB_ID
+* Email : [pyb8527@gmail.com](mailto:pyb8527@gmail.com)
+* GitHub : https://github.com/pyb8527
 
 ---
 
